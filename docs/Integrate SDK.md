@@ -29,6 +29,8 @@ dependencies:
 ```
 In that case you always get InApp SDK v.0.1.1
 
+*If you are using an older version and want to upgrade, use `pub upgrade` in your project.*
+
 Main class of InApp SDK is `InAppSdk`. To use it and others classes of SDK in **.dart** file you need to import header file of library as at example below:
 
 ```dart
