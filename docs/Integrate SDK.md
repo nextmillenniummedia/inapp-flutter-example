@@ -27,7 +27,7 @@ dependencies:
       url: https://oauth2:*GITHUB_TOKEN*@github.com/nextmillenniummedia/SDKFlutter.git
       ref: v.0.1.1
 ```
-In that case you always get InApp SDK v.0.1.0
+In that case you always get InApp SDK v.0.1.1
 
 Main class of InApp SDK is `InAppSdk`. To use it and others classes of SDK in **.dart** file you need to import header file of library as at example below:
 
