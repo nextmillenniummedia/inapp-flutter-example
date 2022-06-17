@@ -25,7 +25,7 @@ dependencies:
   inappsdk:
     git:
       url: https://oauth2:*GITHUB_TOKEN*@github.com/nextmillenniummedia/SDKFlutter.git
-      ref: v.0.1.0
+      ref: v.0.1.1
 ```
 In that case you always get InApp SDK v.0.1.0
 
