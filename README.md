@@ -10,7 +10,7 @@ This repo contains docs about InApp SDK for Flutter. [Contact us](https://nextmi
 
 **Note:** SDK is still in development and new versions can contain breaking changes. Please read release notes when you're going to update.
 
-NMM’s (Next Millennium Media) **InApp** allows you to monetize your mobile applications through high-quality ads via an easy to install, zero-maintenance native SDK.
+NMM`s (Next Millenium Media) InApp Flutter SDK enables you to monetize your apps with high-quality ads via an easy-to-install, zero-maintenance, native SDK. The InApp Flutter SDK uses Flutter for cross-platform mobile publishing.
 
 This documentation describes the procedure on how to integrate Next Millennium Media **InApp** Ads into your Flutter-based iOS and Android applications.
 
@@ -24,10 +24,12 @@ This documentation describes the procedure on how to integrate Next Millennium M
 
 Check the docs below to learn about all the features we provide.
 
-**1.** [Integrate SDK](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20SDK.md)
+**1.** [Prepare Your Project](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Prepare%20Your%20Project.md)
 
-**2.** [Integrate Ad Formats Dynamically](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20Ad%20Formats%20Dynamically.md)
+**2.** [Integrate SDK](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20SDK.md)
 
-**3.** [Integrate Ad Formats Manually](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20Ad%20Formats%20Manually.md)
+**3.** [Integrate Ad Formats Dynamically](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20Ad%20Formats%20Dynamically.md)
 
-**4.** [Test Your Integration](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Test%20Your%20Integration.md)
+**4.** [Integrate Ad Formats Manually](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Integrate%20Ad%20Formats%20Manually.md)
+
+**5.** [Test Your Integration](https://github.com/nextmillenniummedia/inapp-flutter-example/blob/main/docs/Test%20Your%20Integration.md)

@@ -2,7 +2,7 @@
 
 Dynamic mode allows publishers to display ads directly into the content of their App’s screens using pre-defined ad units at the inApp dashboard UI. This method saves publishers time setting up and lowers maintenance to the minimum, since you there’s no need to update code in case of ad format switch while serving ads dynamically.
 
-# Add Screens
+# Specify Screen Names
 
 First, you need provide us a list of unique screens in your apps. In InApp SDK for Flutter you can do it calling function `InAppSdk.sendScreens()` at `main()` of your app:
 
@@ -15,7 +15,7 @@ import 'package:inappsdk/in_app_sdk.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // set InApp API keys for both platforms
+  // set InApp API keys for supported platforms
   InAppSdk().androidApiKey = "INAPP_API_KEY";
   InAppSdk().iOSApiKey = "IN_APP_KEY";
 
