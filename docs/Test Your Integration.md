@@ -28,7 +28,7 @@ Once done, you are encouraged to publish your app to **App Tester / TestFlight**
 
 ### App-ads.txt
 
-By the time testing `app-ads.txt` **must** be added into your developer website, for example: `example.com/app-ads.txt`
+By the time testing, `app-ads.txt` **must** be added into your developer website, for example: `example.com/app-ads.txt`
 
 Please, contact your account manager (*support@nextmillennium.io*) so you'll be provided with a proper file to add.
 
